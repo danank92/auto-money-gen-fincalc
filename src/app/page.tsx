@@ -1,6 +1,6 @@
-import KprCalculator from "./components/KprCalculator";
-import CompoundInterestCalculator from "./components/CompoundInterestCalculator";
-import RoiCalculator from "./components/RoiCalculator";
+import KprCalculator from "@/components/KprCalculator";
+import CompoundInterestCalculator from "@/components/CompoundInterestCalculator";
+import RoiCalculator from "@/components/RoiCalculator";
 
 export default function Home() {
   return (
